@@ -1,0 +1,50 @@
+{
+  "basics": {
+    "name": "Pravin Patil",
+    "picture": "",
+    "email": "pravinpatil2895@gmail.com",
+    "phone": "9975382587",
+    "degree": "BE.Electrical",
+   "location": {
+      "address": "Loni",
+      "postalCode": "413736",
+      "city": "Loni",
+      "countryCode": "IND",
+      "region": "India"
+    },
+  "work": [
+    {
+      "company": "Cognizant",
+      "position": "Associate",
+      "startDate": "2018-12-07",
+      "endDate": "",
+      "summary": "I am a Frontend developer"
+      ]
+    }
+  ],
+ "education": [
+    {
+      "institution": "SPPU",
+      "area": "PUNE",
+      "studyType": "",
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript,HTML,CSS,ReactJS",
+    }
+  ],
+  "languages": [
+    {
+      "language": "English, Hindi, Marathi, Japanese",
+    }
+  ],
+  "interests": [
+    {
+      "name": "sport",
+      "keywords": [
+        "'Cricket', 'Football', 'Golf'"
+      ]
+    }
+  ]
+}
